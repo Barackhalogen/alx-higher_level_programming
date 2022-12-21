@@ -50,6 +50,7 @@ class SinglyLinkedList:
 
         The node is inserted into the list at the correct
         ordered numerical position.
+
         Args:
             value (Node): The new Node to insert.
         """
